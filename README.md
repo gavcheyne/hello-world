@@ -1,2 +1,3 @@
 # hello-world
-a test
+
+a runthrough of the GitHub Hello World guide
